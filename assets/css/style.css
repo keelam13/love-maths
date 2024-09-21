@@ -224,3 +224,22 @@ body {
     }
 }
 
+@media (max-width: 320px) {
+    .game-area {
+        height: 70vh;
+    }
+
+    .controls-area {
+        width: 75%;
+        margin: 10px auto;
+    }
+
+    .btn--big {
+        margin: 10px 10px;
+    }
+
+    .question-area {
+        padding: 10px 0;
+    }
+}
+
